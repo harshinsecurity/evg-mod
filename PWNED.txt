@@ -1,1 +1,0 @@
-PWNED-MODULE-CONTENT: this repo was cloned OUTSIDE the intended workspace
